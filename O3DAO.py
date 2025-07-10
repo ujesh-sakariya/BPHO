@@ -90,7 +90,7 @@ def O3DAO():
         return points
 
     # Create the animation
-    animation = FuncAnimation(fig, update, blit=True, frames=200,)
+    animation = FuncAnimation(fig, update, blit=False, frames=200,)
     ax.dist = 7
     #plt.get_current_fig_manager().full_screen_toggle() # toggle fullscreen mode  
     plt.show()
