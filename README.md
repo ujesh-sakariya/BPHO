@@ -4,7 +4,7 @@ This project was developed by **Ujesh Sakariya** and **Harry Atkin** as part of 
 
 ## 🧠 Overview
 
-This program simulates planetary orbits and visualizes orbital mechanics concepts through a graphical interface. It includes:
+This program accurately simulates planetary orbits and visualizes orbital mechanics concepts through a graphical interface. It includes:
 
 - 📈 **Kepler’s Third Law**
 - 🌍 **2D and 3D orbit visualizations**
