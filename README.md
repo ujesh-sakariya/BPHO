@@ -28,5 +28,6 @@ Users can select different models and change parameters through an interactive *
 | Orbit Angle vs Time | Graphical analysis of angular position over time |
 | Spirograph | Visualizes relative motion between two planets |
 | Relative Orbits (2D/3D) | Orbits from the reference frame of another planet |
-
 ---
+
+[![Watch the video](55ae8d95-ac01-4e44-b260-bb0c223c09b6.png)](https://www.youtube.com/watch?v=fF9iogrSMJA)
